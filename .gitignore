@@ -1,0 +1,5 @@
+# Env file with real secrets — usa .env.example como plantilla
+.env
+
+# Docker volumes locales
+docker-data/
